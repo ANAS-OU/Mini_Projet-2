@@ -26,7 +26,7 @@ public class mini_projet {
             choix = scan.nextInt();
             switch (choix) {
                 case 1:
-                    System.out.println("num :  "/*+Eleve.compteur*/);
+                    System.out.println("num :  ");
                     num = scan.nextInt();
                     System.out.print("nom :  ");
                     nom = scan.nextLine();
